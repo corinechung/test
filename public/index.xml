@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test Website</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Test Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cities</title>
+      <link>http://example.org/post/2024-03-17-cities/</link>
+      <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/2024-03-17-cities/</guid>
+      <description>The Charles River and part of the Boston skyline is visible in this image.
+This image was taken from Central Park, looking south into Manhattan.
+The Seine and the Eiffel Tower are visible in this image.</description>
+    </item>
+    
+    <item>
+      <title>Pulisic</title>
+      <link>http://example.org/post/2024-03-17-pulisic/</link>
+      <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/2024-03-17-pulisic/</guid>
+      <description>C. Pulisic goal in the 50th minute.</description>
+    </item>
+    
+  </channel>
+</rss>
